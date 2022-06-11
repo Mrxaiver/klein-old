@@ -1,5 +1,5 @@
 # klein-old
-
+rm -rf klein-old
 apt update
 
 apt upgrade
